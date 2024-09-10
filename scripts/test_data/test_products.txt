@@ -1,0 +1,17 @@
+
+BearUp Products:
+
+1. BearUp Hiking Backpack:
+   A rugged, waterproof backpack designed for outdoor enthusiasts. Features padded straps, multiple compartments, and a hydration pocket. Capacity: 35 liters. Price: $79.99.
+
+2. BearUp Thermal Jacket:
+   Keep warm with our lightweight yet insulating thermal jacket. Windproof and water-resistant with a breathable fabric. Available in various colors and sizes. Price: $129.99.
+
+3. BearUp Adventure Tent:
+   A 3-person tent made with durable ripstop material. Easy to set up, perfect for camping trips and mountain hikes. Weight: 5 lbs. Price: $199.99.
+
+4. BearUp All-Terrain Boots:
+   Waterproof and made with a rugged sole, these boots provide comfort and stability for long treks. Available in men’s and women’s sizes. Price: $149.99.
+
+5. BearUp Campfire Kit:
+   A compact and efficient campfire set, including a fire starter, collapsible stove, and cooking gear. Perfect for hikers and campers. Price: $49.99.
