@@ -288,7 +288,7 @@
             chatbox.scrollTop = chatbox.scrollHeight;
         
             // Start the fetch API call
-            fetch(`http://${chatbotConfig.domain}/api/chat`, {
+            fetch(`https://${chatbotConfig.domain}/api/chat`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ message: message }),
